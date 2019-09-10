@@ -41,6 +41,8 @@
 
 > 巍然中央
 
+*P.S. 想听[这首校歌](http://www.kugou.com/song/g02cf1b.html?frombaidu#hash=26957DE2CB597410F26964BFF13ED448&album_id=0)吗？
+
 ## 代码引用测试（Python3.7, 人体BMI计算器）
 ```
 height = float(input("height"))
